@@ -1,0 +1,14 @@
+.table.DataTable thead .sorting:after,
+.table.DataTable thead .sorting:before,
+.table.DataTable thead .sorting_asc:after,
+.table.DataTable thead .sorting_asc:before,
+.table.DataTable thead .sorting_asc_disabled:after,
+.table.DataTable thead .sorting_asc_disabled:before,
+.table.DataTable thead .sorting_desc:after,
+.table.DataTable thead .sorting_desc:before,
+.table.DataTable thead .sorting_desc_disabled:after,
+.table.DataTable thead .sorting_desc_disabled:before {
+  bottom: .5em;
+}
+
+#button1 {background-color: #4CAF50;} /* style button1 Green */
